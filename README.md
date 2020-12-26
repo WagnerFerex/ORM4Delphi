@@ -1,2 +1,2 @@
 # ORMFramework
-Simples ORM para Delphi 2010
+ORM para Delphi e Lazarus
